@@ -1,0 +1,17 @@
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\bin\Debug\net6.0-windows\DZtask2.exe
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\bin\Debug\net6.0-windows\DZtask2.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\bin\Debug\net6.0-windows\DZtask2.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\bin\Debug\net6.0-windows\DZtask2.dll
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\bin\Debug\net6.0-windows\DZtask2.pdb
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.dll
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\refint\DZtask2.dll
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.pdb
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\DZtask2.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\mathDZ\DZtask2\DZtask2\obj\Debug\net6.0-windows\ref\DZtask2.dll

@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\bin\Debug\net6.0\LB3Task3.exe
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\bin\Debug\net6.0\LB3Task3.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\bin\Debug\net6.0\LB3Task3.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\bin\Debug\net6.0\LB3Task3.dll
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\bin\Debug\net6.0\LB3Task3.pdb
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.dll
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\refint\LB3Task3.dll
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.pdb
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\LB3Task3.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\MathDZ2\LB3Task3\LB3Task3\obj\Debug\net6.0\ref\LB3Task3.dll
